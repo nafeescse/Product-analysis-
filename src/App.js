@@ -11,7 +11,7 @@ import NotFound from './components/NotFound/NotFound';
 
 function App() {
   return (
-    <div>
+    <div className='bg-blue-200'>
       <div className="flex justify-center">
         <Header></Header>
       </div>

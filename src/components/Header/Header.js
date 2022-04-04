@@ -6,11 +6,11 @@ import { Link, Route, Routes } from 'react-router-dom';
 const Header = () => {
     return (
         <div className='links m-3 '>
-        <Link className='mr-3 hover:text-blue-700' to="/">HOME</Link>
-        <Link className='mr-3 hover:text-blue-700' to="/reviews">REVIEWS</Link>
-        <Link className='mr-3 hover:text-blue-700' to="/dashboard">DASHBOARD</Link>
-        <Link className='mr-3 hover:text-blue-700' to="/blogs">BLOGS</Link>
-        <Link className='mr-3 hover:text-blue-700' to="/about">ABOUT</Link>
+        <Link activeClassName='bg-blue-500' className='mr-3 hover:text-blue-600 hover:font-bold' to="/">HOME</Link>
+        <Link activeClassName='border border-b-blue-500' className='mr-3 hover:text-blue-600 hover:font-bold' to="/reviews">REVIEWS</Link>
+        <Link activeClassName='border border-b-blue-500' className='mr-3 hover:text-blue-600 hover:font-bold' to="/dashboard">DASHBOARD</Link>
+        <Link activeClassName='border border-b-blue-500' className='mr-3 hover:text-blue-600 hover:font-bold' to="/blogs">BLOGS</Link>
+        <Link activeClassName='border border-b-blue-500' className='mr-3 hover:text-blue-600 hover:font-bold' to="/about">ABOUT</Link>
     </div>
     );
 };
