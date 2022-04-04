@@ -1,44 +1,50 @@
 [
     {
         "month": "Mar",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU",
         "investment": 100000,
         "sell": 241,
         "revenue": 10401
     },
     {
-        "month": "Apr",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uTzRbnKSjDdf_KGgB9HosxJ-m4Zf_BgLcg&usqp=CAU",        
+        "month": "Apr",    
         "investment": 200000,
         "sell": 423,
         "revenue": 24500
     },
     {
         "month": "May",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwgu1A5zgPSvfE83nurkuzNEoXs9DMNr8Ww&usqp=CAU",
         "investment": 500000,
         "sell": 726,
         "revenue": 67010
     },
     {
         "month": "Jun",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mZWAZ6H7rMwse_xz7xZCX6a4blTjTD_eSQ&usqp=CAU",
         "investment": 500000,
         "sell": 529,
         "revenue": 40405
     },
     {
         "month": "Jul",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLwz7svLvg4cTkiwR3Ho22i-wUuFxe8ygtg&usqp=CAU",
         "investment": 600000,
         "sell": 601,
         "revenue": 50900
     },
     {
         "month": "Aug",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVLqfekg_kitC_QJ5kgBUTh2tt5EIcxEnQDQ&usqp=CAU",
         "investment": 700000,
         "sell": 670,
         "revenue": 61000
+    },
+    {
+        "month": "Sep",
+        "investment": 750000,
+        "sell": 550,
+        "revenue": 55000
+    },
+    {
+        "month": "Oct",
+        "investment": 800000,
+        "sell": 690,
+        "revenue": 75000
     }
 ]

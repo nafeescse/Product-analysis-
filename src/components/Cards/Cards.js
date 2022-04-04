@@ -7,7 +7,7 @@ const Cards = (props) => {
             <div className='flex items-center m-2'>
                 <img className='mr-2 w-16 rounded-full ' src={img} alt="" />
                 <div>
-                <p className='font-bold'>Name: {name}</p>
+                <p className='font-bold'>{name}</p>
                 <p>{position}</p>
                 <p>Ratings: {ratings}</p>
                 

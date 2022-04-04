@@ -5,8 +5,7 @@ const Reviews = () => {
     const [reviews, setReviews] = useReviews();
     return (
         <div className='flex flex-col justify-center items-center'>
-            <h1 className='text-3xl font-bold  mt-10'>Customer's Review</h1>
-            <h2>Total Reviews:  {reviews.length}</h2>
+            <h1 className='text-3xl font-bold  mt-10'>Customer's Review ({reviews.length})</h1>
             
             <div className='grid grid-cols-1 md:grid-cols-2
             lg:grid-cols-3 m-5 p-3'>
