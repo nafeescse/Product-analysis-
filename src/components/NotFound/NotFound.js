@@ -5,7 +5,7 @@ import {   ReplyIcon } from '@heroicons/react/solid'
 const NotFound = () => {
     return (
         <div>
-            <div  className='m-10 flex justify-center'>
+            <div  className='m-12 flex justify-center'>
             <img src={notfound} alt="" />
             </div>
             

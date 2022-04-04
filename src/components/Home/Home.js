@@ -20,7 +20,7 @@ const Home = () => {
                     </a>
                 </div>
                 <div className='flex justify-center'>
-                    <img src={pro8} alt="" />
+                    <img className='hover:translate-x-10 ease-in-out' src={pro8} alt="" />
                 </div>
             </section>
             <section className='flex flex-col items-center pb-10'>
