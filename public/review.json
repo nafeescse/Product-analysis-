@@ -1,0 +1,44 @@
+[
+    {
+        "name": "TheTechieGeek",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU",
+        "ratings": "5.0/5.0",
+        "position": "Softwere Engineer",
+        "review": "This is the fourth Microsoft Surface 2-in-1 I have owned, and it is the clearly best. Microsoft has checked all the boxes for user's desires resulting in a product that does not disappoint. Best features include robust performance, larger display with brilliant colors, good overall battery life and modern peripheral access ports. The new type cover offers a convenient storage/charging slot for the pen and the docking device has been reconfigured and improved, although they are not backward compatible with earlier Surface models. Prices tend to be at the upper end of the scale but coupled with Windows 11 the overall satisfaction has been provided."
+    },
+    {
+        "name": "Hobie Mayaan",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uTzRbnKSjDdf_KGgB9HosxJ-m4Zf_BgLcg&usqp=CAU",
+        "ratings": "4.5/5.0",
+        "position": "Medical Student",
+        "review": "So I am OS agnostic but if forced to prefer an OS it would be Linux. That being said I need to work in Windows a lot. I was going to buy a laptop but began to think about the advantages of the tablet form factor. After weighing the pros-and-cons I went for the Windows Surface Pro 8 because there are no decent Linux tablets available and having tested my wife's iPad I was not interested in one of those. I also purchased the flip down keyboard/cover which is a must for my use cases. Long story short I was very pleasantly surprised by the display, performance, battery life, and form-factor with the fold down keyboard. "
+    },
+    {
+        "name": "Silvike Natasha",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwgu1A5zgPSvfE83nurkuzNEoXs9DMNr8Ww&usqp=CAU",
+        "ratings": "4.5/5.0",
+        "position": "Teacher",
+        "review": "I read the comments after I purchased. One person noted, not in an original MS box. The Amazon rules, you can return if not opened. If it was in a plain box, or I felt it was not what I ordered then I would have not opened and returned to Amazon. In my case, I received a genuine sealed Microsoft Box with the correct markings. I did receive a Microsoft Surface Pro 8 reports Surface Pro 8 Model 1983 i7 running Windows 11 Home. Two Thunderbolt ports to the right, all good. In spite of the swelling battery issue I still like the Microsoft Surface Pro. I also added the Kensington SD5750T dock while at my desk."
+    },
+    {
+        "name": "Jasmine Liu",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4mZWAZ6H7rMwse_xz7xZCX6a4blTjTD_eSQ&usqp=CAU",
+        "ratings": "3.0/5.0",
+        "position": "Businessman",
+        "review": "I suggest that buyers beware and check carefully once you receive your Surface. This particular Surface sent to me as a Surface Pro 8 with Win 11 was actually a Surface Pro Model 1796 with WIN 10 and Ver 21H2 installed. Search and no where could I find what MODEL this is. It all goes back to Model 1796. What is clear is that it is NOT a Surface Pro 8 and the CPU does not support Windows 11. Let's not even open the pandora of Intel CPU's."
+    },
+    {
+        "name": "Erik D Birkinbine",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLwz7svLvg4cTkiwR3Ho22i-wUuFxe8ygtg&usqp=CAU",
+        "ratings": "2.0/5.0",
+        "position": "Physician",
+        "review": "This computer feels very flimsy, the screen is so small! But the worst thing is you need WiFi to complete setup. What if I don’t have WiFi? What if all I want to do is take notes? This experience has been foolish. Update after 1 month: I still think this is a waste of money. It is all the frustration of having a tablet with none of the benefits of having a tablet. It drives me absolutely crazy that there is no structural integrity to have the screen stand up on it's own with the keypad. You cannot work with it on your lap (so it's not much of a laptop now is it?)."
+    },
+    {
+        "name": "John T Taylor",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVLqfekg_kitC_QJ5kgBUTh2tt5EIcxEnQDQ&usqp=CAU",
+        "ratings": "5.0/5.0",
+        "position": "Computer Engineer",
+        "review": "I've had a Surface Pro 4 for years now and it has been used for all my personal and commissioned artwork since I got it. Before that, I had a SP3, which was also amazing -- so I'm a big Surface fan in general. Unfortunately, My Pro 4 is finally on its way out. The charging port is iffy, and it does not support Windows 11, meaning in a year or so it would be obsolete anyway. So, with the good sale on the 8s, which has 11 by default, I decided to upgrade. The 8 does have a bigger screen and an upgradable hard drive, which are the nicest features. But for art, it feels like a downgrade to a much cheaper tablet."
+    }
+]

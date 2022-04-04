@@ -1,6 +1,6 @@
 import React from 'react';
 import pro8 from '../../surface.png'
-import { ArrowCircleLeftIcon, ArrowCircleRightIcon } from '@heroicons/react/solid'
+import { ArrowCircleRightIcon } from '@heroicons/react/solid'
 
 const Home = () => {
     return (

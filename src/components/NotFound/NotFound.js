@@ -1,5 +1,6 @@
 import React from 'react';
 import notfound from '../../notfound.png';
+import {   ReplyIcon } from '@heroicons/react/solid'
 
 const NotFound = () => {
     return (
@@ -9,7 +10,9 @@ const NotFound = () => {
             </div>
             
             <div className='flex justify-center'>
-                <button  className='border-2 border-blue-700 rounded-xl p-2 hover:bg-blue-400 hover:text-white shadow-xl' >Back to Home</button>
+                <a href="/" className='border-2 border-blue-700 rounded-xl p-2 hover:bg-blue-400 hover:text-white shadow-xl m-12 flex' >Back to Home 
+                <ReplyIcon className='w-6 ml-2'></ReplyIcon>
+                </a>
             </div>
         </div>
     );

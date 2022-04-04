@@ -8,7 +8,8 @@
     },
     {
         "month": "Apr",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uTzRbnKSjDdf_KGgB9HosxJ-m4Zf_BgLcg&usqp=CAU",        "investment": 200000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uTzRbnKSjDdf_KGgB9HosxJ-m4Zf_BgLcg&usqp=CAU",        
+        "investment": 200000,
         "sell": 423,
         "revenue": 24500
     },
