@@ -1,10 +1,24 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import Phones from '../Phones/Phones';
 
 const About = () => {
+    const [phones, setPhones] = useState([]);
+    useEffect(() => {
+        fetch('/review.json')
+            .then(res => res.json())
+            .then(data => setPhones(data))
+    }, [])
+    console.log(phones);
+
     return (
+
         <div>
-            <p>This is about us</p>
+            {
+                phones.map(phone => <Phones key={phone.sell} phone={phone}></Phones>)
+            }
+
         </div>
+
     );
 };
 

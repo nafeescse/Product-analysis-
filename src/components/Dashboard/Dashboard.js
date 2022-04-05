@@ -32,7 +32,7 @@ const Dashboard = () => {
                     <Area type="monotone" dataKey="revenue" stroke="#82ca9d" fillOpacity={1} fill="url(#colorUv)" />
 
                 </AreaChart>
-                <p className='text-center'>Figure: Area-chart of revenue from Mar-Oct 2021</p>
+                <p className='text-center text-xl font-bold'>Figure: Area-chart of revenue from Mar-Oct 2021</p>
             </div>
 
             <div>
@@ -42,7 +42,7 @@ const Dashboard = () => {
                     <Tooltip />
                 </PieChart>
 
-                <p className='text-center'>Figure: Pie-chart of sell and revenue from Mar-Oct 2021</p>
+                <p className='text-center text-xl font-bold'>Figure: Pie-chart of sell and revenue from Mar-Oct 2021</p>
             </div>
 
 
@@ -65,7 +65,7 @@ const Dashboard = () => {
                     <Legend />
                     <Bar dataKey="sell" stackId="a" fill="#8884d8" />
                 </BarChart>
-                <p className='text-center'>Figure: Bar-chart of sell from Mar-Oct 2021</p>
+                <p className='text-center text-xl font-bold'>Figure: Bar-chart of sell from Mar-Oct 2021</p>
             </div>
 
         </div>

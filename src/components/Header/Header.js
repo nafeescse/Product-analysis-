@@ -14,7 +14,7 @@ const Header = () => {
 
             <NavLink  className='active mr-3 text-lg' to="/blogs">Blogs</NavLink>
 
-            <NavLink className='active mr-3 text-lg' to="/about">About</NavLink>
+            <NavLink className='active mr-3 text-lg' to="/gallery">Gallery</NavLink>
         </div>
     );
 };
