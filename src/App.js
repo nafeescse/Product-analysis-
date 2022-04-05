@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header';
 import { Route, Routes } from 'react-router-dom';
@@ -15,7 +14,6 @@ function App() {
       <div className="flex justify-center">
         <Header></Header>
       </div>
-      {/* <Home></Home> */}
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/home' element={<Home></Home>}></Route>
